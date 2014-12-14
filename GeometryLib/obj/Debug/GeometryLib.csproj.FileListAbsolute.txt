@@ -1,4 +1,0 @@
-D:\Projects\GeometryGUI\GeometryLib\bin\Debug\GeometryLib.dll
-D:\Projects\GeometryGUI\GeometryLib\bin\Debug\GeometryLib.pdb
-D:\Projects\GeometryGUI\GeometryLib\obj\Debug\GeometryLib.dll
-D:\Projects\GeometryGUI\GeometryLib\obj\Debug\GeometryLib.pdb
